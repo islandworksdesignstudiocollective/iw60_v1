@@ -1,6 +1,6 @@
 iw60_v1
 
-
+<img width="3440" height="1392" alt="kicad_RbH6R2ADO3" src="https://github.com/user-attachments/assets/eceae95a-b897-49ce-876c-cd22a35e1745" />
 
 ****************************************************************************************
 
