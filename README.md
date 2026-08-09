@@ -16,7 +16,7 @@ i was not impressed by the features, availability or price of other gh60 pcbs wi
 
 -onboad usb c, esd, h60 jst location yada yada
 
--routed to use no gnd plane cuz why not (a 2-sided fill zone has been drawn with isolation for the usb-c receptabcle already, so you can choose to fill or remove it before making production files)
+-routed to use no gnd plane cuz why not (a 2-sided fill zone has been drawn with isolation for the usb-c receptacle already, so you can choose to fill or remove it before making production files)
 
 -duplex matrix cuz why not
 
@@ -32,10 +32,10 @@ i was not impressed by the features, availability or price of other gh60 pcbs wi
 
 as of right now, stm32g0b1cbt6 (and other stm mcus) seem to be in short supply, and other designers have reported issues with this mcu and qmk, so i have shelved this design. for that reason **this design has NOT been prototyped**. i don't have the energy right now to do a bom i will probably regret this in the future
 
-the step file looks good to me. new versions of kicad are annoying to get the right thickness and not export all the holes/components etc so if somethings missing its because i didn't notice :)
+the step file looks good to me. new versions of kicad are annoying to get the right thickness and export all the holes/components etc so if somethings missing its because i didn't notice :)
 
-if you would like files for the same pcb with a different mcu you can check out iw60_v2 whenever i finish and publish it
+if you would like files for the same pcb with a different mcu you can check out iw60_v2 whenever i finish and publish that
 
 ****************************************************************************************
 
-this is licensed under the Creative Commons Attribution Share-Alike 4.0 license. For the license's exact terms, see the LICENSE.md file
+this is licensed under the Creative Commons Attribution Share-Alike 4.0 license, for the license's exact terms, see the LICENSE.md file
